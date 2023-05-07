@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: HelloSpringBootTemplate0502Study
+  profiles:
+    active: dev
