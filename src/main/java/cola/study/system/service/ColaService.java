@@ -1,4 +1,4 @@
-package cola.study.service;
+package cola.study.system.service;
 
 /**
  * @author Cola_Ubuntu

@@ -1,4 +1,4 @@
-package cola.study.mapper;
+package cola.study.system.mapper;
 
 /**
  * @author Cola_Ubuntu

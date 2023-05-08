@@ -1,4 +1,4 @@
-package cola.study.config;
+package cola.study.system.config;
 
 /**
  * @author Cola_Ubuntu
